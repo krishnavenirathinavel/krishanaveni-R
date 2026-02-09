@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main()
+{
+  char  a = 97;
+   int b;
+   b = a;
+  printf("%d",b);
+  return 0;
+}
